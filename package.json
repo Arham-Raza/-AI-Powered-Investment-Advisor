@@ -1,0 +1,13 @@
+{
+  "name": "investment-advisor",
+  "version": "1.0.0",
+  "description": "Personal investment advisor web app with stock search, charting, news sentiment and portfolio tracking.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

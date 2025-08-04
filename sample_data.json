@@ -1,0 +1,210 @@
+{
+  "AAPL": {
+    "name": "Apple Inc.",
+    "priceData": [
+      {"date": 1721606400000, "open": 178.5, "high": 180.2, "low": 177.9, "close": 179.7, "volume": 90000000},
+      {"date": 1721692800000, "open": 179.7, "high": 181.0, "low": 178.5, "close": 180.4, "volume": 95000000},
+      {"date": 1721779200000, "open": 180.4, "high": 182.0, "low": 179.8, "close": 181.6, "volume": 87000000},
+      {"date": 1721865600000, "open": 181.6, "high": 183.1, "low": 180.9, "close": 182.7, "volume": 88000000},
+      {"date": 1721952000000, "open": 182.7, "high": 183.5, "low": 181.2, "close": 181.9, "volume": 86000000},
+      {"date": 1722211200000, "open": 181.9, "high": 183.0, "low": 181.5, "close": 182.1, "volume": 87000000},
+      {"date": 1722297600000, "open": 182.1, "high": 183.8, "low": 181.6, "close": 183.4, "volume": 91000000},
+      {"date": 1722384000000, "open": 183.4, "high": 185.0, "low": 182.9, "close": 184.2, "volume": 92000000},
+      {"date": 1722470400000, "open": 184.2, "high": 185.5, "low": 183.8, "close": 185.0, "volume": 93000000},
+      {"date": 1722556800000, "open": 185.0, "high": 186.2, "low": 184.5, "close": 185.8, "volume": 94000000},
+      {"date": 1722816000000, "open": 185.8, "high": 186.5, "low": 184.8, "close": 185.1, "volume": 88000000},
+      {"date": 1722902400000, "open": 185.1, "high": 185.9, "low": 184.0, "close": 185.4, "volume": 86000000},
+      {"date": 1722988800000, "open": 185.4, "high": 186.8, "low": 185.1, "close": 186.1, "volume": 87000000},
+      {"date": 1723075200000, "open": 186.1, "high": 187.6, "low": 185.3, "close": 187.2, "volume": 90000000},
+      {"date": 1723161600000, "open": 187.2, "high": 187.8, "low": 186.1, "close": 186.5, "volume": 85000000},
+      {"date": 1723420800000, "open": 186.5, "high": 187.4, "low": 185.8, "close": 186.2, "volume": 83000000},
+      {"date": 1723507200000, "open": 186.2, "high": 186.9, "low": 185.5, "close": 186.6, "volume": 82000000},
+      {"date": 1723593600000, "open": 186.6, "high": 187.3, "low": 186.0, "close": 186.4, "volume": 81000000},
+      {"date": 1723680000000, "open": 186.4, "high": 187.5, "low": 185.9, "close": 187.0, "volume": 82000000},
+      {"date": 1723766400000, "open": 187.0, "high": 187.8, "low": 186.5, "close": 187.6, "volume": 83000000},
+      {"date": 1724025600000, "open": 187.6, "high": 188.3, "low": 186.8, "close": 187.9, "volume": 84000000},
+      {"date": 1724112000000, "open": 187.9, "high": 188.7, "low": 187.1, "close": 188.4, "volume": 85000000},
+      {"date": 1724198400000, "open": 188.4, "high": 189.2, "low": 187.7, "close": 188.9, "volume": 86000000},
+      {"date": 1724284800000, "open": 188.9, "high": 189.7, "low": 188.3, "close": 189.3, "volume": 87000000},
+      {"date": 1724371200000, "open": 189.3, "high": 189.8, "low": 188.4, "close": 189.5, "volume": 88000000},
+      {"date": 1724630400000, "open": 189.5, "high": 190.2, "low": 188.7, "close": 190.0, "volume": 89000000},
+      {"date": 1724716800000, "open": 190.0, "high": 190.8, "low": 189.2, "close": 190.6, "volume": 90000000},
+      {"date": 1724803200000, "open": 190.6, "high": 191.1, "low": 189.9, "close": 190.3, "volume": 90500000},
+      {"date": 1724889600000, "open": 190.3, "high": 191.3, "low": 189.5, "close": 191.0, "volume": 91000000},
+      {"date": 1724976000000, "open": 191.0, "high": 191.7, "low": 190.2, "close": 191.5, "volume": 91500000}
+    ],
+    "news": [
+      {
+        "date": "2025-07-30",
+        "title": "Apple reports third‑quarter 2025 results",
+        "description": "Apple announced its Q3 2025 results with revenue of $90 billion, beating analyst expectations thanks to strong iPhone sales and services growth."
+      },
+      {
+        "date": "2025-08-02",
+        "title": "Analysts discuss Apple's artificial intelligence strategy",
+        "description": "Analysts highlight Apple's efforts to integrate generative AI into its products; some believe this could drive future revenue growth."
+      },
+      {
+        "date": "2025-08-03",
+        "title": "Apple stock falls amid market uncertainty",
+        "description": "Shares of Apple fell 3% as investors reacted to broader market volatility and concerns over supply chain disruptions."
+      }
+    ]
+  },
+  "GOOGL": {
+    "name": "Alphabet Inc.",
+    "priceData": [
+      {"date": 1721606400000, "open": 128.4, "high": 129.6, "low": 127.9, "close": 129.0, "volume": 18000000},
+      {"date": 1721692800000, "open": 129.0, "high": 130.1, "low": 128.2, "close": 129.5, "volume": 18500000},
+      {"date": 1721779200000, "open": 129.5, "high": 130.3, "low": 128.7, "close": 130.0, "volume": 17500000},
+      {"date": 1721865600000, "open": 130.0, "high": 131.0, "low": 129.2, "close": 130.8, "volume": 17000000},
+      {"date": 1721952000000, "open": 130.8, "high": 131.5, "low": 129.9, "close": 130.2, "volume": 16500000},
+      {"date": 1722211200000, "open": 130.2, "high": 131.0, "low": 129.8, "close": 130.4, "volume": 16800000},
+      {"date": 1722297600000, "open": 130.4, "high": 131.4, "low": 129.9, "close": 131.2, "volume": 16900000},
+      {"date": 1722384000000, "open": 131.2, "high": 132.1, "low": 130.6, "close": 131.8, "volume": 17000000},
+      {"date": 1722470400000, "open": 131.8, "high": 132.5, "low": 131.1, "close": 132.0, "volume": 17200000},
+      {"date": 1722556800000, "open": 132.0, "high": 132.7, "low": 131.4, "close": 132.3, "volume": 17400000},
+      {"date": 1722816000000, "open": 132.3, "high": 133.1, "low": 131.5, "close": 132.0, "volume": 16900000},
+      {"date": 1722902400000, "open": 132.0, "high": 132.6, "low": 131.3, "close": 131.7, "volume": 16700000},
+      {"date": 1722988800000, "open": 131.7, "high": 132.4, "low": 131.2, "close": 131.9, "volume": 16500000},
+      {"date": 1723075200000, "open": 131.9, "high": 132.8, "low": 131.4, "close": 132.6, "volume": 16600000},
+      {"date": 1723161600000, "open": 132.6, "high": 133.2, "low": 131.8, "close": 132.0, "volume": 16000000},
+      {"date": 1723420800000, "open": 132.0, "high": 132.5, "low": 131.5, "close": 132.2, "volume": 15800000},
+      {"date": 1723507200000, "open": 132.2, "high": 133.0, "low": 131.8, "close": 132.5, "volume": 15900000},
+      {"date": 1723593600000, "open": 132.5, "high": 133.2, "low": 131.9, "close": 132.3, "volume": 15800000},
+      {"date": 1723680000000, "open": 132.3, "high": 133.4, "low": 131.8, "close": 133.0, "volume": 16000000},
+      {"date": 1723766400000, "open": 133.0, "high": 133.7, "low": 132.2, "close": 133.5, "volume": 16200000},
+      {"date": 1724025600000, "open": 133.5, "high": 134.0, "low": 132.7, "close": 133.7, "volume": 16250000},
+      {"date": 1724112000000, "open": 133.7, "high": 134.3, "low": 133.0, "close": 134.0, "volume": 16300000},
+      {"date": 1724198400000, "open": 134.0, "high": 134.6, "low": 133.3, "close": 134.4, "volume": 16500000},
+      {"date": 1724284800000, "open": 134.4, "high": 135.0, "low": 133.6, "close": 134.8, "volume": 16600000},
+      {"date": 1724371200000, "open": 134.8, "high": 135.1, "low": 133.8, "close": 134.9, "volume": 16700000},
+      {"date": 1724630400000, "open": 134.9, "high": 135.5, "low": 134.1, "close": 135.3, "volume": 16800000},
+      {"date": 1724716800000, "open": 135.3, "high": 136.0, "low": 134.5, "close": 135.8, "volume": 16900000},
+      {"date": 1724803200000, "open": 135.8, "high": 136.2, "low": 134.9, "close": 135.6, "volume": 16950000},
+      {"date": 1724889600000, "open": 135.6, "high": 136.5, "low": 134.8, "close": 136.2, "volume": 17000000},
+      {"date": 1724976000000, "open": 136.2, "high": 136.7, "low": 135.5, "close": 136.5, "volume": 17100000}
+    ],
+    "news": [
+      {
+        "date": "2025-07-25",
+        "title": "Alphabet posts strong Q2 2025 earnings",
+        "description": "Alphabet reported higher‑than‑expected earnings for its Q2 2025, driven by robust advertising revenue and growth in its cloud business."
+      },
+      {
+        "date": "2025-08-01",
+        "title": "Google unveils new AI chatbot updates",
+        "description": "Google announced updates to its AI chatbot Gemini, incorporating more advanced reasoning capabilities and improved user experience."
+      },
+      {
+        "date": "2025-08-02",
+        "title": "EU fines Google for antitrust violations",
+        "description": "European regulators fined Google $1.6 billion for antitrust violations related to its digital advertising practices."
+      }
+    ]
+  },
+  "TSLA": {
+    "name": "Tesla, Inc.",
+    "priceData": [
+      {"date": 1721606400000, "open": 695.0, "high": 705.0, "low": 690.5, "close": 700.5, "volume": 30000000},
+      {"date": 1721692800000, "open": 700.5, "high": 710.5, "low": 698.0, "close": 705.0, "volume": 31000000},
+      {"date": 1721779200000, "open": 705.0, "high": 712.0, "low": 703.0, "close": 710.5, "volume": 32000000},
+      {"date": 1721865600000, "open": 710.5, "high": 715.0, "low": 707.0, "close": 712.8, "volume": 31500000},
+      {"date": 1721952000000, "open": 712.8, "high": 720.0, "low": 710.0, "close": 718.5, "volume": 30500000},
+      {"date": 1722211200000, "open": 718.5, "high": 722.5, "low": 714.0, "close": 719.0, "volume": 30000000},
+      {"date": 1722297600000, "open": 719.0, "high": 725.5, "low": 717.5, "close": 724.0, "volume": 30200000},
+      {"date": 1722384000000, "open": 724.0, "high": 730.0, "low": 722.0, "close": 728.5, "volume": 30500000},
+      {"date": 1722470400000, "open": 728.5, "high": 732.0, "low": 725.0, "close": 730.5, "volume": 30700000},
+      {"date": 1722556800000, "open": 730.5, "high": 735.0, "low": 728.0, "close": 732.0, "volume": 30800000},
+      {"date": 1722816000000, "open": 732.0, "high": 736.5, "low": 730.0, "close": 734.0, "volume": 30400000},
+      {"date": 1722902400000, "open": 734.0, "high": 739.0, "low": 732.5, "close": 736.5, "volume": 30200000},
+      {"date": 1722988800000, "open": 736.5, "high": 741.0, "low": 734.0, "close": 738.0, "volume": 30000000},
+      {"date": 1723075200000, "open": 738.0, "high": 742.5, "low": 736.0, "close": 740.5, "volume": 29900000},
+      {"date": 1723161600000, "open": 740.5, "high": 744.0, "low": 738.0, "close": 739.0, "volume": 29800000},
+      {"date": 1723420800000, "open": 739.0, "high": 743.0, "low": 736.5, "close": 738.0, "volume": 29700000},
+      {"date": 1723507200000, "open": 738.0, "high": 740.0, "low": 733.5, "close": 736.0, "volume": 29600000},
+      {"date": 1723593600000, "open": 736.0, "high": 738.0, "low": 731.0, "close": 732.5, "volume": 29500000},
+      {"date": 1723680000000, "open": 732.5, "high": 736.0, "low": 730.0, "close": 731.5, "volume": 29400000},
+      {"date": 1723766400000, "open": 731.5, "high": 735.5, "low": 729.0, "close": 734.0, "volume": 29300000},
+      {"date": 1724025600000, "open": 734.0, "high": 737.5, "low": 731.0, "close": 735.0, "volume": 29200000},
+      {"date": 1724112000000, "open": 735.0, "high": 739.0, "low": 732.0, "close": 737.0, "volume": 29100000},
+      {"date": 1724198400000, "open": 737.0, "high": 741.5, "low": 734.0, "close": 740.0, "volume": 29000000},
+      {"date": 1724284800000, "open": 740.0, "high": 745.0, "low": 737.0, "close": 743.5, "volume": 28900000},
+      {"date": 1724371200000, "open": 743.5, "high": 747.0, "low": 740.0, "close": 742.0, "volume": 28800000},
+      {"date": 1724630400000, "open": 742.0, "high": 745.5, "low": 739.0, "close": 741.0, "volume": 28700000},
+      {"date": 1724716800000, "open": 741.0, "high": 744.0, "low": 738.0, "close": 740.5, "volume": 28600000},
+      {"date": 1724803200000, "open": 740.5, "high": 743.5, "low": 737.5, "close": 738.0, "volume": 28550000},
+      {"date": 1724889600000, "open": 738.0, "high": 741.5, "low": 735.0, "close": 739.0, "volume": 28500000},
+      {"date": 1724976000000, "open": 739.0, "high": 742.0, "low": 736.0, "close": 740.0, "volume": 28400000}
+    ],
+    "news": [
+      {
+        "date": "2025-07-20",
+        "title": "Tesla reports record vehicle deliveries in Q2 2025",
+        "description": "Tesla delivered a record 500,000 vehicles in the second quarter, boosting expectations for strong annual growth."
+      },
+      {
+        "date": "2025-08-02",
+        "title": "Elon Musk teases new Tesla robotaxi service",
+        "description": "Musk revealed details about Tesla's upcoming robotaxi service, expected to launch in late 2025, promising fully autonomous rides."
+      },
+      {
+        "date": "2025-08-03",
+        "title": "Tesla shares dip as analysts cut price targets",
+        "description": "Several analysts lowered their price targets on Tesla stock, citing margin pressures and increased competition in the EV market."
+      }
+    ]
+  },
+  "AMZN": {
+    "name": "Amazon.com, Inc.",
+    "priceData": [
+      {"date": 1721606400000, "open": 148.0, "high": 149.5, "low": 147.0, "close": 148.8, "volume": 25000000},
+      {"date": 1721692800000, "open": 148.8, "high": 150.0, "low": 147.6, "close": 149.2, "volume": 25200000},
+      {"date": 1721779200000, "open": 149.2, "high": 150.5, "low": 148.0, "close": 149.9, "volume": 25500000},
+      {"date": 1721865600000, "open": 149.9, "high": 151.2, "low": 149.0, "close": 150.7, "volume": 25800000},
+      {"date": 1721952000000, "open": 150.7, "high": 151.6, "low": 149.8, "close": 150.0, "volume": 25100000},
+      {"date": 1722211200000, "open": 150.0, "high": 151.0, "low": 149.6, "close": 150.2, "volume": 24900000},
+      {"date": 1722297600000, "open": 150.2, "high": 151.5, "low": 149.8, "close": 151.3, "volume": 25000000},
+      {"date": 1722384000000, "open": 151.3, "high": 152.0, "low": 150.6, "close": 151.7, "volume": 25200000},
+      {"date": 1722470400000, "open": 151.7, "high": 152.5, "low": 151.0, "close": 152.1, "volume": 25300000},
+      {"date": 1722556800000, "open": 152.1, "high": 152.7, "low": 151.4, "close": 152.5, "volume": 25400000},
+      {"date": 1722816000000, "open": 152.5, "high": 153.2, "low": 151.8, "close": 152.9, "volume": 25350000},
+      {"date": 1722902400000, "open": 152.9, "high": 153.8, "low": 152.3, "close": 153.4, "volume": 25400000},
+      {"date": 1722988800000, "open": 153.4, "high": 154.0, "low": 152.9, "close": 153.7, "volume": 25500000},
+      {"date": 1723075200000, "open": 153.7, "high": 154.5, "low": 153.1, "close": 154.2, "volume": 25600000},
+      {"date": 1723161600000, "open": 154.2, "high": 154.8, "low": 153.4, "close": 153.6, "volume": 25500000},
+      {"date": 1723420800000, "open": 153.6, "high": 154.3, "low": 152.8, "close": 153.1, "volume": 25400000},
+      {"date": 1723507200000, "open": 153.1, "high": 153.9, "low": 152.5, "close": 153.4, "volume": 25300000},
+      {"date": 1723593600000, "open": 153.4, "high": 154.1, "low": 152.7, "close": 153.2, "volume": 25200000},
+      {"date": 1723680000000, "open": 153.2, "high": 153.9, "low": 152.4, "close": 153.5, "volume": 25100000},
+      {"date": 1723766400000, "open": 153.5, "high": 154.2, "low": 152.8, "close": 153.9, "volume": 25000000},
+      {"date": 1724025600000, "open": 153.9, "high": 154.7, "low": 153.1, "close": 154.1, "volume": 24900000},
+      {"date": 1724112000000, "open": 154.1, "high": 154.9, "low": 153.3, "close": 154.6, "volume": 24850000},
+      {"date": 1724198400000, "open": 154.6, "high": 155.3, "low": 153.8, "close": 155.0, "volume": 24800000},
+      {"date": 1724284800000, "open": 155.0, "high": 155.7, "low": 154.2, "close": 155.5, "volume": 24750000},
+      {"date": 1724371200000, "open": 155.5, "high": 156.0, "low": 154.8, "close": 155.2, "volume": 24700000},
+      {"date": 1724630400000, "open": 155.2, "high": 155.9, "low": 154.4, "close": 155.7, "volume": 24650000},
+      {"date": 1724716800000, "open": 155.7, "high": 156.3, "low": 154.9, "close": 156.2, "volume": 24600000},
+      {"date": 1724803200000, "open": 156.2, "high": 156.6, "low": 155.4, "close": 155.9, "volume": 24550000},
+      {"date": 1724889600000, "open": 155.9, "high": 156.4, "low": 155.0, "close": 156.1, "volume": 24500000},
+      {"date": 1724976000000, "open": 156.1, "high": 156.8, "low": 155.2, "close": 156.5, "volume": 24450000}
+    ],
+    "news": [
+      {
+        "date": "2025-07-26",
+        "title": "Amazon beats earnings expectations for Q2 2025",
+        "description": "Amazon's Q2 2025 earnings topped expectations as e‑commerce sales remained strong and AWS revenue continued to grow."
+      },
+      {
+        "date": "2025-07-30",
+        "title": "FTC investigates Amazon's advertising practices",
+        "description": "The FTC launched an investigation into Amazon's advertising practices, focusing on how it leverages data to promote its own products."
+      },
+      {
+        "date": "2025-08-04",
+        "title": "Amazon to expand drone delivery program",
+        "description": "Amazon announced plans to expand its Prime Air drone delivery program to more U.S. cities by the end of 2025."
+      }
+    ]
+  }
+}

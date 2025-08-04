@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI‑Powered Investment Advisor</title>
+  <!-- Link to our CSS -->
+  <link rel="stylesheet" href="style.css" />
+  <!-- Chart.js and the financial chart plugin via CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-financial@3.0.0/dist/chartjs-chart-financial.min.js"></script>
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <h1>Investment Advisor</h1>
+      <nav>
+        <ul>
+          <li><button id="nav-stocks" class="active">Stocks</button></li>
+          <li><button id="nav-portfolio">Portfolio</button></li>
+        </ul>
+      </nav>
+    </aside>
+    <main id="main-content">
+      <!-- Stocks View -->
+      <section id="stocks-view" class="view active">
+        <div class="search-bar">
+          <input type="text" id="search-input" placeholder="Search for a stock (e.g. AAPL)" />
+          <button id="search-button">Search</button>
+        </div>
+        <div id="search-results" class="search-results"></div>
+        <div id="stock-details" class="hidden">
+          <h2 id="stock-title"></h2>
+          <canvas id="chart" width="400" height="300"></canvas>
+          <div class="stats">
+            <p><strong>Last price:</strong> <span id="last-price"></span></p>
+            <p><strong>Recommendation:</strong> <span id="recommendation"></span></p>
+            <p id="recommendation-rationale"></p>
+          </div>
+          <div class="add-portfolio">
+            <label for="quantity-input">Add to portfolio:</label>
+            <input type="number" id="quantity-input" min="1" value="1" />
+            <button id="add-portfolio-button">Add</button>
+          </div>
+          <div class="news-section">
+            <h3>News &amp; Sentiment Summary</h3>
+            <p id="news-summary"></p>
+            <ul id="news-list"></ul>
+          </div>
+        </div>
+      </section>
+      <!-- Portfolio View -->
+      <section id="portfolio-view" class="view">
+        <h2>My Portfolio</h2>
+        <table id="portfolio-table">
+          <thead>
+            <tr>
+              <th>Symbol</th>
+              <th>Quantity</th>
+              <th>Avg. Price</th>
+              <th>Current Price</th>
+              <th>Value</th>
+              <th>P/L</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody id="portfolio-body"></tbody>
+        </table>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
