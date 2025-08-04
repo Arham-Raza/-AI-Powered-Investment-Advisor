@@ -74,10 +74,10 @@ This project simulates:
 -  Connect to live market data (Alpha Vantage, Finnhub, etc.)
 -  Use OpenAI or HuggingFace for real sentiment analysis
 -  Deploy to Firebase Hosting + Functions
-- ⚛️ Convert to React + Tailwind CSS for modern componentized design
+- ⚛ Convert to React + Tailwind CSS for modern componentized design
 
 ---
 
-## 📄 License
+##  License
 
 MIT — Free to use and modify.
