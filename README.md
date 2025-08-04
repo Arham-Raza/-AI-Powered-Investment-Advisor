@@ -1,11 +1,11 @@
 
-# 📊 AI-Powered Investment Advisor
+#  AI-Powered Investment Advisor
 
 A personal investment dashboard that provides stock recommendations, sentiment analysis, and portfolio tracking. This app simulates real-time finance behavior using local data and AI-like logic.
 
 ---
 
-## 🔍 Features
+##  Features
 
 - **Stock Search** with simulated real-time prices and candlestick charts (Chart.js)
 - **AI Sentiment Summary** of the latest news headlines for selected stocks
@@ -16,7 +16,7 @@ A personal investment dashboard that provides stock recommendations, sentiment a
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer         | Tech                      |
 |---------------|----------------------------|
@@ -27,7 +27,7 @@ A personal investment dashboard that provides stock recommendations, sentiment a
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repo
 ```bash
@@ -45,7 +45,7 @@ Go to: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 investment-advisor/
@@ -60,7 +60,7 @@ investment-advisor/
 
 ---
 
-## 🧠 AI Component (Mocked)
+##  AI Component (Mocked)
 
 This project simulates:
 - Sentiment analysis by summarizing news headlines
@@ -69,11 +69,11 @@ This project simulates:
 
 ---
 
-## 🧱 Future Enhancements
+##  Future Enhancements
 
-- 🔌 Connect to live market data (Alpha Vantage, Finnhub, etc.)
-- 🤖 Use OpenAI or HuggingFace for real sentiment analysis
-- 🌐 Deploy to Firebase Hosting + Functions
+-  Connect to live market data (Alpha Vantage, Finnhub, etc.)
+-  Use OpenAI or HuggingFace for real sentiment analysis
+-  Deploy to Firebase Hosting + Functions
 - ⚛️ Convert to React + Tailwind CSS for modern componentized design
 
 ---
